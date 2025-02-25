@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS specific files
+.DS_Store
+
+# npm/yarn cache
+.npm
+.yarn
+yarn-error.log
+
+# Debug files
+debug.log
+
+# Build files
+dist/
+build/
+
+# Optional: Ignore MongoDB local data (if you're using local DB)
+data/db/
