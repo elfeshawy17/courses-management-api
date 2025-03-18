@@ -90,7 +90,3 @@ For any inquiries, feel free to reach out:
 
 ## ⚠️ Notes
 - Replace `your_mongodb_connection_string` with your actual **MongoDB connection string**.
-
----
-Made with ❤️ by **Your Name** 🚀
-
